@@ -1,11 +1,7 @@
 # Lab-SIEM-Log-Monitoring-Threat-Detection
 A hands-on SIEM and Detection Engineering project using Elasticsearch, Logstash, and Kibana. Includes log ingestion for Windows/Linux and custom detection rules for common attack vectors like PowerShell abuse and brute force.
 
-# SIEM-Log-Monitoring-Threat-Detection-Lab
-A hands-on SIEM and Detection Engineering project using Elasticsearch, Logstash, and Kibana. Includes log ingestion for Windows/Linux and custom detection rules for common attack vectors like PowerShell abuse and brute force.
-
 # 🛡️ SIEM Lab: Log Monitoring & Threat Detection
-
 A hands-on security lab simulating real-world SOC operations. Detect, investigate, and respond to security threats using industry-standard SIEM platforms.
 
 ## 🎯 What You'll Build
